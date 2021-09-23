@@ -9,6 +9,11 @@ The Assistant currently supports just shy of 50 companies and offers fully autom
 - On Chrome, install via the [Chrome Web Store](https://chrome.google.com/webstore/detail/dara-assistant/heolgaalbnnelipfhbccbkdohecmaimo).
 - On Firefox, install via [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dara/).
 
+## Demo
+
+https://user-images.githubusercontent.com/18154624/134520323-b24ec483-a22d-446a-8f7f-08c6f3b2441c.mp4
+
+
 ## Development Setup
 
 Clone the DARA-Assistant project.
